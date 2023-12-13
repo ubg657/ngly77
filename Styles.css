@@ -13,3 +13,7 @@ h1 {
     text-align: center;
     font-family: 'Poppins', sans-serif;
 }
+
+a {
+    font-size: 10%;
+}
